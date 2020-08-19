@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hello! My name is Sunay Dagli and I am a second year student at UC Berkeley! 👋
 
+To learn more about me and what I do, please visit [sunaydagli.com](http://sunaydagli.com/) or connect with me on [LinkedIn](https://linkedin.com/in/sunaydagli)!
 <!--
 **sunaydagli/sunaydagli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
